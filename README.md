@@ -10,7 +10,7 @@
 <a href="https://linkedin.com/in/amilali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amilali" height="30" width="40" /></a>
 <a href="https://instagram.com/amilaliwaris" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="amilaliwaris" height="30" width="40" /></a>
 <a href="https://hashnode.com/amilali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="amilali" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/amilali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amilali" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/amil13985" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="amilali" height="30" width="40" /></a>
 </p>
 
 
