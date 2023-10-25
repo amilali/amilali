@@ -1,6 +1,6 @@
 
 </div><p align="center">
-     <img src="https://res.cloudinary.com/djcmgdn0x/image/upload/v1698233711/Group_19_iucaq1.png" alt="" /><br>
+     <img src="https://res.cloudinary.com/djcmgdn0x/image/upload/v1698249471/MAIN_GRP_2_hahosp.png" alt="" /><br>
   <img src="https://komarev.com/ghpvc/?username=amilali&style=flat-square&color=red" alt="" /><br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=amilali&theme=black-ice&hide_border=true&stroke=0000&background=0a0c10" alt="GitHub streak stats">
 </p>
