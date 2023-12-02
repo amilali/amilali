@@ -1,4 +1,4 @@
-[![An image of @amilali's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/amilali)](https://holopin.io/@amilali)
+
 
 <h2 align="center">Hi 👋, I'm Amil Ali</h2>
 
