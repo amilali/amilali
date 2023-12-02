@@ -1,8 +1,6 @@
+<h1 align="center">Hi 👋, I'm Amil Ali</h1>
 
-
-<h2 align="center">Hi 👋, I'm Amil Ali</h2>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil Ali%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
 ### 👦 About Me
@@ -118,9 +116,9 @@ CSS            5 hrs 54 mins   ▒░░░░░░░░░░░░░░░�
 ### 🐍 Contribution snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://amilali.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://amilali.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://amilali.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://getlost01.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
 </picture>
 
 ---
