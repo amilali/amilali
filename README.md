@@ -1,4 +1,7 @@
-<h1 align="center">Hi 👋, I'm Amil Ali</h1>
+<h1 align="center" style="background: linear-gradient(45deg, #ff8a00, #e52e71, #ff8a00); -webkit-background-clip: text; color: transparent;">
+    Hi 👋, I'm Amil Ali
+</h1>
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
