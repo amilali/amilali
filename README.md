@@ -9,11 +9,9 @@
 ### 👦 About Me
 - 👨‍💻 I'm a B-Tech IT Graduate From IET Ayodhya
 
-- 🔭 I’m currently working on **ConferConnect** & focusing on **Open Source**
+- 🔭 I’m currently working on **CrowdXFund** & focusing on **Blockchain Web3**
 
-- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
-
-- ⚡ Fun fact : **My GitHub codes = 40% Me + 30% StackOverflow + 10% Google + 20% ChatGPT** 
+- 🌱 I’m already working on **JavaScript, Node.js, Java , Spring and other Tech-stack.**
 
 --- 
 
