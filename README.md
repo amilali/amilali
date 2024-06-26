@@ -7,7 +7,7 @@
 
 ---
 ### 👦 About Me
-- 👨‍💻 I'm a B-Tech IT Graduate From IET Ayodhya
+- 👨‍💻 I'm a B-Tech IT graduate from IET Ayodhya, currently working as a software engineer at Accenture.
 
 - 🔭 I’m currently working on **CrowdXFund** & focusing on **Blockchain Web3**
 
