@@ -1,5 +1,48 @@
 <h1 align="center" style="background: linear-gradient(45deg, #ff8a00, #e52e71, #ff8a00); -webkit-background-clip: text; color: transparent;">
-    Hi 👋, I'm Amil Ali
+   Full-Stack Engineer | AI & GenAI Practitioners
+
+I am a Full-Stack & Cloud Engineer at Accenture, specializing in building intelligent, production-ready systems. With 2+ years of enterprise experience, I bridge the gap between responsive frontends, scalable microservices, and modern cloud-native AI architectures.
+
+Core Technical Stack:
+Frontend
+React.js
+Next.js
+TypeScript
+Micro Frontends
+Backend & APIs
+Node.js
+FastAPI
+Java
+Spring Boot
+Cloud Infrastructure
+
+Google Cloud Platform: (GCP) — 5x Certified
+
+Professional Cloud Architect (PCA)
+Professional Machine Learning Engineer (PMLE)
+Professional Data Engineer (PDE)
+Associate Data Practitioner (ADP)
+Associate Cloud Engineer (ACE)
+Data & Automation
+BigQuery
+Firebase
+Compute Engine
+Cloud Run
+AI & Generative AI Engineering
+
+I design and deploy autonomous, agent-based architectures and GenAI capabilities directly into production.
+
+Frameworks & Orchestration:
+LangChain
+LangGraph
+Agent Development Kit (ADK)
+Techniques & Paradigms
+Retrieval-Augmented Generation (RAG)
+Fine-Tuning (LoRA, QLoRA)
+AI Ecosystem & Practices
+Vertex AI
+MLOps
+Intelligent Cloud-First Solutions
 </h1>
 
 
