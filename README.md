@@ -1,4 +1,12 @@
 <h1 align="center" style="background: linear-gradient(45deg, #ff8a00, #e52e71, #ff8a00); -webkit-background-clip: text; color: transparent;">
+Hey, My Name is Amil Ali
+</h1>
+
+
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg) -->
+
+---
+### About Me
    Full-Stack Engineer | AI & GenAI Practitioners
 
 I am a Full-Stack & Cloud Engineer at Accenture, specializing in building intelligent, production-ready systems. With 2+ years of enterprise experience, I bridge the gap between responsive frontends, scalable microservices, and modern cloud-native AI architectures.
@@ -43,14 +51,6 @@ AI Ecosystem & Practices
 Vertex AI
 MLOps
 Intelligent Cloud-First Solutions
-</h1>
-
-
-<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg) -->
-
----
-### I am Full Stack Ai Egnineer working at Accenture.
-
 --- 
 
 <!-- ### 🔥 My Stats 
