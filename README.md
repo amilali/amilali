@@ -3,7 +3,7 @@
 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
+<!--[![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg) -->
 
 ---
 ### I am Full Stack Ai Egnineer working at Accenture.
