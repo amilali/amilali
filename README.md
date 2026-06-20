@@ -98,11 +98,9 @@ From: 24 January 2023 - To: 02 October 2023
 Total Time: 417 hrs 36 mins
 
 TypeScript     205 hrs 24 mins ████████████▒░░░░░░░░░░░░   49.19 %
-C++            82 hrs 57 mins  █████░░░░░░░░░░░░░░░░░░░░   19.87 %
+Python           82 hrs 57 mins  █████░░░░░░░░░░░░░░░░░░░░   19.87 %
 JavaScript     78 hrs 53 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.89 %
-Markdown       15 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
-JSON           7 hrs 59 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-CSS            5 hrs 54 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 %
+JAVA       15 hrs 14 mins  █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
 ```
 
 <!--END_SECTION:waka-simple-->
