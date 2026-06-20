@@ -79,7 +79,7 @@ With 2+ years of experience delivering production-grade systems, I specialize in
 
 ## 🌐 Connect With Me
 
-- Portfolio: https://www.amilali.engineer
+- Portfolio: https://amil2026.vercel.app/
 - LinkedIn: https://linkedin.com/in/amilali
 - GitHub: https://github.com/amilali
 
