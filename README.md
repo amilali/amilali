@@ -6,16 +6,11 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=10000&center=true&vCenter=true&width=800&height=30&lines=Hello+this+is+Amil%2C+Welcome+to+my+Github+page.)](https://git.io/typing-svg)
 
 ---
-### 👦 About Me
-- 👨‍💻 I'm a B-Tech IT graduate from IET Ayodhya, currently working as a software engineer at Accenture.
-
-- 🔭 I’m currently working on **CrowdXFund** & focusing on **Blockchain Web3**
-
-- 🌱 I’m already working on **JavaScript, Node.js, Java , Spring and other Tech-stack.**
+### I am Full Stack Ai Egnineer working at Accenture.
 
 --- 
 
-### 🔥 My Stats 
+<!-- ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=amilali&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=amilali&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=amilali&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/amilali/github-stats">
@@ -38,7 +33,7 @@
 --- 
 
 
-### ⚙️ My Projects 
+<!-- ### ⚙️ My Projects 
 
 #### Full-Stack Projects :
 * [Confer-Connect](https://github.com/amilali/Confer-Connect)
@@ -112,7 +107,7 @@ CSS            5 hrs 54 mins   ▒░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-simple-->
 
----
+<!-----
 
 ### 🐍 Contribution snake
 
